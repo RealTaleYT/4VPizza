@@ -7,6 +7,8 @@
 /public/bundles/
 /var/
 /vendor/
+/migrations/
+/composer/
 ###< symfony/framework-bundle ###
 
 ###> phpunit/phpunit ###
